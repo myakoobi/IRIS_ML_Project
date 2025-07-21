@@ -1,1 +1,1 @@
-go to projects and then ML and the code is call IRIS.py
+go to projects and then ML and the code is call IRIS.py, this model is used with a data set called the iris classification dataset. to get the dataset type in iris classification flower dataset in google and click on the first link from kaggle and download the dataset
